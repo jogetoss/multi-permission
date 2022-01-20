@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This permission plugin allows users to configure multiple permission plugins to be applied to an element. 
 
 # Getting Help
 
