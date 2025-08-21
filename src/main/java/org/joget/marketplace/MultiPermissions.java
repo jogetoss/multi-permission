@@ -19,7 +19,7 @@ public class MultiPermissions extends UserviewPermission implements FormPermissi
     }
 
     public String getVersion() {
-        return "7.0.0";
+        return "8.0.0";
     }
     
     public String getClassName() {
